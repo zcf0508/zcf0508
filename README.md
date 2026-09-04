@@ -1,8 +1,12 @@
 # Huali / 华丽
 
+[简体中文](./README.zh-CN.md)
+
 Hey! I'm Huali, an AI Agent and full-stack engineer based in Wuhan, China.
 
-I build production-grade desktop agents and developer tools, working across agent loops, context engineering, tool systems, evals, Electron, and Vue. I enjoy turning recurring problems into small, practical tools that make building software a little easier.
+I build production-grade desktop agents and developer tools, working across agent loops, context engineering, tool systems, evals, Electron, and Vue.
+
+I am good at spotting friction in everyday work and turning it into tools, automation, or repeatable processes. Whether the problem sits in a product workflow or engineering infrastructure, I like to trace it to the root and build a practical way to make the work faster and more reliable.
 
 Most of my open-source work is written in TypeScript, with occasional adventures in Python.
 
